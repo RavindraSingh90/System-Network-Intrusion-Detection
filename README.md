@@ -9,5 +9,6 @@ addressing novel attacks.
 
 ### There are two problems:
 **Binomial classification**: Detect anomalies by predicting Activity is normal or attack
+
 **Multinomial Classification**: Detecting type of activity by predicting Activity is Normal or Back or Buffer Over flow or FTP Write or Guess Password or Neptune or N-Map or Port Sweep or Root Kit or 
 Satan or Smurf
